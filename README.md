@@ -1,6 +1,6 @@
 ### Olá! eu sou o Lidiano Wagner
 
-- 🔭 Hoje busco oportunidade com Desenvolvedor Java
+- 🔭 Hoje busco oportunidade como Desenvolvedor Java
 - 🌱 Estudando Java
 - 😄 Pronouns: ele/ dele
 
